@@ -1,2 +1,2 @@
 # gamefour
-Recriando a interface Netflix em uma interface voltada para jogos.
+Recriando a interface Netflix voltada para jogos.
